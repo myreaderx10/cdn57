@@ -1,0 +1,16 @@
+<svg viewBox="0 0 260 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M121 10H250V170H143.5L121 10Z" fill="var(--color-contrast-lower)"/>
+<path d="M161 114L200.493 75L224 114H161Z" fill="var(--color-contrast-medium)"/>
+<path d="M168.5 82C172.642 82 176 78.6421 176 74.5C176 70.3579 172.642 67 168.5 67C164.358 67 161 70.3579 161 74.5C161 78.6421 164.358 82 168.5 82Z" fill="var(--color-contrast-medium)"/>
+<circle cx="26" cy="26" r="8" fill="var(--color-primary)"/>
+<circle cx="100" cy="159" r="5" fill="var(--color-contrast-medium)"/>
+<circle cx="116" cy="159" r="5" fill="var(--color-contrast-medium)"/>
+<circle cx="84" cy="159" r="5" fill="var(--color-contrast-medium)"/>
+<rect x="18" y="156" width="25" height="6" fill="var(--color-contrast-medium)"/>
+<rect x="18" y="78" width="86" height="7" fill="var(--color-contrast-medium)"/>
+<rect x="18" y="59" width="68" height="9" fill="var(--color-contrast-high)"/>
+<rect x="18" y="90" width="68" height="7" fill="var(--color-contrast-medium)"/>
+<rect x="75" y="106" width="38" height="16" fill="var(--color-primary)"/>
+<rect x="84" y="112" width="20" height="4" fill="var(--color-bg)"/>
+<rect x="18" y="107" width="52" height="14" fill="var(--color-bg)" stroke="var(--color-contrast-low)" stroke-width="2"/>
+</svg>
